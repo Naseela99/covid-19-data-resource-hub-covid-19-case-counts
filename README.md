@@ -21,3 +21,7 @@ Now that we know how powerful plotly is, let us talk about what we are doing her
 ## Problem statement
 
 We have seen the pandemic data all over the internet and yet the representaions in new and imporoved forms never stop. In this project, we have implemented the data in a different way based on their variants, date as well as the number of cases
+
+The binder application and link to the project is [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naseela99/eda_using_plotly/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Naseela99/eda_using_plotly/HEAD
